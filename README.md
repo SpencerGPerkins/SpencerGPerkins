@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @SpencerGPerkins
-- I am interested in machine learning, deep learning, with an emphasis in audio classification
-- I am currently working on an MS in Computer Science 
+-Currently studying an MS
+-Primary interest in machineLearning/deepLearning with an emphasis in audio classification
+
+-MM in Music Composition, MM in Piano Performance, BM in Piano Performance
 
 <!---
 SpencerGPerkins/SpencerGPerkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
